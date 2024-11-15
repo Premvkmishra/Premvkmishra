@@ -4,7 +4,12 @@
 </p>
 
 # 💫 About Me:
-Backend Development<br>Artificial Intelligence<br>DevOps Professional<br>Competitive Programmer<br>Open Source Contributer
+### Backend Development
+### Artificial Intelligence
+### DevOps Professional
+### Competitive Programmer
+### Open Source Contributor
+
 
 
 ## 🌐 Socials:
