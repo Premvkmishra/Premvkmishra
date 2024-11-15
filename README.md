@@ -3,12 +3,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
-## 💫 About Me:
-**🚀** **Backend Development**  
-**🤖** **Artificial Intelligence**  
-**🛠️** **DevOps Professional**  
-**🏆** **Competitive Programmer**  
-**🌐** **Open Source Contributor**
+# 💫 About Me:
+
+![About Me Image](https://media.licdn.com/dms/image/v2/D4E16AQFKZrWqZCGwww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729864380648?e=1736985600&v=beta&t=kkkuHmhR6Gr7qpIaqfR0yi8CB3lfZ7sUeMTnyGa1iAw)
+
 
 
 
