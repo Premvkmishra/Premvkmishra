@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-![About Me Image]([https://media.licdn.com/dms/image/v2/D4E16AQFKZrWqZCGwww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729864380648?e=1736985600&v=beta&t=kkkuHmhR6Gr7qpIaqfR0yi8CB3lfZ7sUeMTnyGa1iAw](https://github.com/Premvkmishra/Event_Nest/blob/master/githubban.png?raw=true))
+![About Me Image](https://github.com/Premvkmishra/Event_Nest/blob/master/githubban.png?raw=true)
 
 
 
