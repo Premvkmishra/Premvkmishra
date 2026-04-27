@@ -3,7 +3,7 @@
 # Prem Mishra
 
 **Backend Engineer · AI Systems Builder**
-B.Tech Information Technology · University of Mumbai · 2026
+
 
 <br/>
 
