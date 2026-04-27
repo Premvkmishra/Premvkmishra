@@ -30,7 +30,7 @@ class Prem:
 ```
 
 I build backend systems that are **fast**, **reliable**, and increasingly **intelligent.**
-From production-grade REST APIs to RAG pipelines and self-healing infrastructure —
+From production-grade REST APIs to RAG pipelines and self-healing infrastructure 
 I work at the intersection of **backend engineering** and **applied AI.**
 
 <br/>
