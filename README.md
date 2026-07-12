@@ -22,11 +22,27 @@
 
 ```python
 class Prem:
-    role     = "Backend Developer"
-    focus    = ["Scalable APIs", "Distributed Systems", "AI/ML Integration"]
-    stack    = ["FastAPI", "Django", "PostgreSQL", "Redis", "Docker", "AWS"]
-    now      = "Building AI-powered backend systems that scale"
-    belief   = "Clean architecture + intelligent systems = real impact"
+    role     = "Backend & AI Engineer"
+
+    focus    = [
+        "Scalable Backend Systems",
+        "Generative AI & RAG",
+        "Distributed Services"
+    ]
+
+    stack    = [
+        "Python",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Azure AI"
+    ]
+
+    now      = "Building AI-powered platforms, intelligent agents, and high-performance backend systems"
+
+    belief   = "Great software combines scalable architecture, automation, and practical AI"
 ```
 
 I build backend systems that are **fast**, **reliable**, and increasingly **intelligent.**
