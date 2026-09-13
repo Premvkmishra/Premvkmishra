@@ -6,8 +6,8 @@ I build backend systems and AI-powered applications.
 
 ### What I work with
 
-**Backend** — Python, FastAPI, Django, PostgreSQL, Redis
-**AI** — LLMs, RAG, AI Agents, LangChain, LangGraph
+**Backend** — Python, FastAPI, Django, PostgreSQL, Redis <br>
+**AI** — LLMs, RAG, AI Agents, LangChain, LangGraph <br>
 **Infrastructure** — Docker, Git, Linux, AWS
 
 ### Currently
